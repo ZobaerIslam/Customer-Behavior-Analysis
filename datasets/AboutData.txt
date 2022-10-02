@@ -1,0 +1,13 @@
+**The dataset**
+
+The dataset used in this project was made by collecting information from an e-commerce store with products in multiple categories. The data is only for the months of October and November for the year 2019. The dataset description can be found here.
+
+
+# Dataset link: 
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Nov.csv
+
+# Direct Download 2019 November data (zip file): 
+https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store/download/FAH9d0ulvNiH3S9wVMMr%2Fversions%2FQKmiBnpOADqv1OZIHWvX%2Ffiles%2F2019-Nov.csv?datasetVersionNumber=8
+
+# Direct Download 2019 October data (zip file):
+https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store/download/FAH9d0ulvNiH3S9wVMMr%2Fversions%2FQKmiBnpOADqv1OZIHWvX%2Ffiles%2F2019-Nov.csv?datasetVersionNumber=8
