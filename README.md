@@ -14,7 +14,7 @@ Do you know that the average attention span of a person is at an all-time low? T
 A customer will only be interested in your product if they somehow get convinced that it aligns with their interests and habits.
 
 
-## Results?#
+## Results?
 1. We will try to provide promising results for the following queries:
 
 2. Do users prefer the products of a specific brand?
@@ -24,3 +24,25 @@ A customer will only be interested in your product if they somehow get convinced
 4. Items from which brands and categories are most preferred by users?
 
 5. Can we effectively conduct targeted marketing?
+
+
+
+## RFM analysis
+
+RFM is a categorizing technique that uses the previous purchasing behavior of the customers to divide customers into groups so that an optimal marketing strategy can be developed for each individual. RFM stands for recency, frequency, and monetary, respectively.
+
+- **Recency**: How many days have passed since a customer has bought an item
+
+- **Frequency**: How many orders a customer has placed
+
+- **Monetary**: How much money a customer has spent
+
+## Need for RFM analysis
+
+- This technique efficiently categorizes the customers into specific rank-based groups taking into account their past online behaviors.
+
+- This can help marketers and advertisers target each group of consumers separately, enabling them to cater to the needs of groups instead of each individual.
+
+- This technique also informs us of the most and least profit yielding customers so relevant resources can be deployed to each group according to their needs.
+
+- If the results of this technique are correctly used, then even customers who don’t engage in much activity(view, cart, buy) can be influenced to be high potential customers.
